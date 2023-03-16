@@ -50,6 +50,7 @@ iframe#tela{
 
 section#redes-sociais {
     padding-top: 20px;
+    
 }
 
 section#redes-sociais  img{
@@ -65,4 +66,10 @@ section#redes-sociais img:hover{
     transform: translate(-3px,-3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.63);
     transition: 0.2s border .2s;
+}
+
+div#redes{
+    position: relative;
+    width: 80px;
+    margin: 1px;
 }
